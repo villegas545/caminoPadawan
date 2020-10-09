@@ -1,7 +1,5 @@
 import server from './server';
 import db from './server/config/database';
-import models from './server/models';
-
 import * as usuario from './server/seeder';
 
 const PORT = process.env.PORT || 5000;

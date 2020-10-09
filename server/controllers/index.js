@@ -1,3 +1,3 @@
 import * as user from './user';
-
-export { user };
+import * as confirmarUsuario from './confirmarUsuario';
+export { user, confirmarUsuario };
